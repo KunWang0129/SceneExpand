@@ -1,0 +1,6 @@
+__pycache__
+.cache/
+paper_material/
+output
+test*
+.DS_Store
